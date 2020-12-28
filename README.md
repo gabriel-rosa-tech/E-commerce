@@ -1,2 +1,3 @@
-# Loittycs
-Trabalho de ADS 2ºSemestre
+# E-commerce
+Projeto para praticar conhecimento em Bootstrap e Node.js
+
